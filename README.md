@@ -12,6 +12,7 @@
 - Языки программирования: Java, Python
 - Базы данных: PostgreSQL, MySQL, SQLite
 - Инструменты: Git, Linux
+- Английский: B2-C1
 
 ---
 
