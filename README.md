@@ -12,7 +12,7 @@
 - Языки программирования: Java, Python, PHP
 - Базы данных: PostgreSQL, MySQL, SQLite
 - Веб-разработка: HTML, CSS, JavaScript (базово)
-- Инструменты: Git, Linux, SSH
+- Инструменты: Git, Linux, SSH, pgAdmin
 - Английский: B2-C1
 
 ---
